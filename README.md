@@ -15,8 +15,8 @@
 
 ## Quick start
 
-1. Clone this repo using `git clone --depth=1 https://github.com/lukemarsh/hq.git`
-1. Run `npm install` to install dependencies
+1. Clone this repo
+1. Run `yarn install` to install dependencies
 1. Run `npm start` to see the example app at `http://localhost:3000`.
 
 ## Documentation
